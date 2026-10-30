@@ -1,0 +1,126 @@
+{
+ "E5a_same_arch": [
+  {
+   "h1": 16,
+   "h2": 16,
+   "seed1": 0,
+   "seed2": 1,
+   "label_match_gw": 0.484375,
+   "label_match_inputNN": 0.88671875,
+   "gw_value": 70.20180294155716
+  },
+  {
+   "h1": 16,
+   "h2": 16,
+   "seed1": 0,
+   "seed2": 5,
+   "label_match_gw": 0.5234375,
+   "label_match_inputNN": 0.88671875,
+   "gw_value": 90.0140752455477
+  },
+  {
+   "h1": 16,
+   "h2": 32,
+   "seed1": 0,
+   "seed2": 1,
+   "label_match_gw": 0.484375,
+   "label_match_inputNN": 0.88671875,
+   "gw_value": 299.8483971905007
+  },
+  {
+   "h1": 64,
+   "h2": 8,
+   "seed1": 0,
+   "seed2": 1,
+   "label_match_gw": 0.578125,
+   "label_match_inputNN": 0.88671875,
+   "gw_value": 836.6415207008683
+  }
+ ],
+ "E5b_digits": {
+  "accA": 0.94140625,
+  "accB": 0.94921875,
+  "label_match_gw": 0.078125,
+  "label_match_random": 0.09375,
+  "label_match_inputNN": 0.99609375,
+  "gw_value": 772.7112428996743
+ },
+ "E5c_anchor_rescue": {
+  "moons": [
+   {
+    "k": 0,
+    "label_match_mean": 0.87890625,
+    "label_match_min": 0.87890625,
+    "label_match_max": 0.87890625
+   },
+   {
+    "k": 1,
+    "label_match_mean": 0.873046875,
+    "label_match_min": 0.86328125,
+    "label_match_max": 0.88671875
+   },
+   {
+    "k": 2,
+    "label_match_mean": 0.8720703125,
+    "label_match_min": 0.83984375,
+    "label_match_max": 0.88671875
+   },
+   {
+    "k": 4,
+    "label_match_mean": 0.8642578125,
+    "label_match_min": 0.85546875,
+    "label_match_max": 0.87109375
+   },
+   {
+    "k": 8,
+    "label_match_mean": 0.85205078125,
+    "label_match_min": 0.81640625,
+    "label_match_max": 0.87890625
+   },
+   {
+    "k": 16,
+    "label_match_mean": 0.85009765625,
+    "label_match_min": 0.82421875,
+    "label_match_max": 0.87109375
+   }
+  ],
+  "digits": [
+   {
+    "k": 0,
+    "label_match_mean": 0.328125,
+    "label_match_min": 0.328125,
+    "label_match_max": 0.328125
+   },
+   {
+    "k": 1,
+    "label_match_mean": 0.37158203125,
+    "label_match_min": 0.31640625,
+    "label_match_max": 0.421875
+   },
+   {
+    "k": 2,
+    "label_match_mean": 0.33837890625,
+    "label_match_min": 0.30859375,
+    "label_match_max": 0.41796875
+   },
+   {
+    "k": 4,
+    "label_match_mean": 0.3359375,
+    "label_match_min": 0.3046875,
+    "label_match_max": 0.4609375
+   },
+   {
+    "k": 8,
+    "label_match_mean": 0.51318359375,
+    "label_match_min": 0.30078125,
+    "label_match_max": 0.77734375
+   },
+   {
+    "k": 16,
+    "label_match_mean": 0.4306640625,
+    "label_match_min": 0.30859375,
+    "label_match_max": 0.76953125
+   }
+  ]
+ }
+}

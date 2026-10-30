@@ -1,0 +1,14 @@
+{
+ "gw_hard_unconstrained": {
+  "gw_cost": 1189.1415601349418,
+  "label_match": 0.5078125
+ },
+ "gw_hard_label_restricted": {
+  "gw_cost": 2397.039500353968,
+  "label_match": 1.0
+ },
+ "input_nn": {
+  "gw_cost": 4443.230605192498,
+  "label_match": 0.90625
+ }
+}

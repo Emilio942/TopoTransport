@@ -1,0 +1,102 @@
+{
+ "model_acc": {
+  "A": 0.9449999928474426,
+  "B": 0.9399999976158142
+ },
+ "transfer": {
+  "probe_reference_A": 0.921875,
+  "rows": [
+   {
+    "eps_rel": 1.0,
+    "same_true_label_fraction": 0.140625,
+    "gw_cost_original": 962.6657482153678,
+    "gw_cost_cluster_swapped": 3598.0485129359486,
+    "label_transfer_gw": 0.09375,
+    "label_transfer_random": 0.4765625,
+    "label_transfer_product": 0.5,
+    "label_transfer_oracle_lsa": 0.953125,
+    "position_transfer_rounding_acc": 0.09375,
+    "barycentric_projection_acc": 0.09375,
+    "gw_value": 962.6657482153678
+   },
+   {
+    "eps_rel": 0.5,
+    "same_true_label_fraction": 0.12890625,
+    "gw_cost_original": 680.3390224925879,
+    "gw_cost_cluster_swapped": 3573.0488985909183,
+    "label_transfer_gw": 0.08984375,
+    "label_transfer_random": 0.484375,
+    "label_transfer_product": 0.5,
+    "label_transfer_oracle_lsa": 0.953125,
+    "position_transfer_rounding_acc": 0.08984375,
+    "barycentric_projection_acc": 0.09375,
+    "gw_value": 680.3390224925879
+   },
+   {
+    "eps_rel": 0.2,
+    "same_true_label_fraction": 0.11328125,
+    "gw_cost_original": 350.7674179011501,
+    "gw_cost_cluster_swapped": 3568.353627541359,
+    "label_transfer_gw": 0.08984375,
+    "label_transfer_random": 0.46875,
+    "label_transfer_product": 0.5,
+    "label_transfer_oracle_lsa": 0.953125,
+    "position_transfer_rounding_acc": 0.08984375,
+    "barycentric_projection_acc": 0.09375,
+    "gw_value": 350.7674179011501
+   },
+   {
+    "eps_rel": 0.1,
+    "same_true_label_fraction": 0.125,
+    "gw_cost_original": 225.36844152201047,
+    "gw_cost_cluster_swapped": 3575.5274301204254,
+    "label_transfer_gw": 0.09375,
+    "label_transfer_random": 0.5234375,
+    "label_transfer_product": 0.5,
+    "label_transfer_oracle_lsa": 0.953125,
+    "position_transfer_rounding_acc": 0.09375,
+    "barycentric_projection_acc": 0.0859375,
+    "gw_value": 225.36844152201047
+   },
+   {
+    "eps_rel": 0.05,
+    "same_true_label_fraction": 0.09765625,
+    "gw_cost_original": 151.57857579926713,
+    "gw_cost_cluster_swapped": 3598.319688747045,
+    "label_transfer_gw": 0.0859375,
+    "label_transfer_random": 0.421875,
+    "label_transfer_product": 0.5,
+    "label_transfer_oracle_lsa": 0.953125,
+    "position_transfer_rounding_acc": 0.0859375,
+    "barycentric_projection_acc": 0.078125,
+    "gw_value": 151.57857579926713
+   },
+   {
+    "eps_rel": 0.02,
+    "same_true_label_fraction": 0.0859375,
+    "gw_cost_original": 118.45472144894302,
+    "gw_cost_cluster_swapped": 3624.839440049645,
+    "label_transfer_gw": 0.0625,
+    "label_transfer_random": 0.484375,
+    "label_transfer_product": 0.5,
+    "label_transfer_oracle_lsa": 0.953125,
+    "position_transfer_rounding_acc": 0.0625,
+    "barycentric_projection_acc": 0.06640625,
+    "gw_value": 118.45472144894302
+   },
+   {
+    "eps_rel": 0.01,
+    "same_true_label_fraction": 0.09375,
+    "gw_cost_original": 109.56815505112536,
+    "gw_cost_cluster_swapped": 3630.65694085436,
+    "label_transfer_gw": 0.08203125,
+    "label_transfer_random": 0.53125,
+    "label_transfer_product": 0.5,
+    "label_transfer_oracle_lsa": 0.953125,
+    "position_transfer_rounding_acc": 0.08203125,
+    "barycentric_projection_acc": 0.08203125,
+    "gw_value": 109.56815505112536
+   }
+  ]
+ }
+}

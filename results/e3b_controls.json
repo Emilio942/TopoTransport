@@ -1,0 +1,9 @@
+{
+ "gw_AA_same_net": 32.32507272698285,
+ "gw_BB_same_net": 42.470456692208245,
+ "gw_AB_cross_arch": 115.57483504514312,
+ "gw_cost_inputNN_AB": 4443.230605192498,
+ "gw_cost_inputNN_AA": -162.15492762196436,
+ "label_match_inputNN_AB": 0.90625,
+ "label_match_GW_AB": 0.48828125
+}

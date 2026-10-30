@@ -1,0 +1,65 @@
+{
+  "total": 66,
+  "n_valid": 4,
+  "pct_valid": 6.1,
+  "n_invalid": 59,
+  "pct_invalid": 89.4,
+  "n_unknown": 3,
+  "pct_unknown": 4.5,
+  "novelty_mean": 0.562,
+  "novelty_std": 0.073,
+  "novelty_valid_mean": 0.546,
+  "novelty_invalid_mean": 0.563,
+  "corr_novelty_validity": -0.057,
+  "cluster_stats": {
+    "AlgebraicGeometry": {
+      "n": 12,
+      "valid": 1,
+      "novelty_mean": 0.591
+    },
+    "Topology": {
+      "n": 11,
+      "valid": 1,
+      "novelty_mean": 0.577
+    },
+    "DifferentialGeometry": {
+      "n": 9,
+      "valid": 1,
+      "novelty_mean": 0.593
+    },
+    "Logic": {
+      "n": 9,
+      "valid": 0,
+      "novelty_mean": 0.544
+    },
+    "ProbabilityTheory": {
+      "n": 9,
+      "valid": 0,
+      "novelty_mean": 0.534
+    },
+    "NumberTheory": {
+      "n": 6,
+      "valid": 0,
+      "novelty_mean": 0.539
+    },
+    "DynamicalSystems": {
+      "n": 6,
+      "valid": 0,
+      "novelty_mean": 0.547
+    },
+    "Analysis": {
+      "n": 4,
+      "valid": 1,
+      "novelty_mean": 0.528
+    }
+  },
+  "failure_taxonomy": {
+    "O1_symmetry": 13,
+    "O3_functor": 11,
+    "O5_illposed": 10,
+    "O7_unprovable": 10,
+    "O4_metric": 6,
+    "O2_support": 5,
+    "O6_category": 4
+  }
+}
